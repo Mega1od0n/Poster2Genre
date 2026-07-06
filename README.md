@@ -56,4 +56,4 @@
 
 ## Запуск
 
-Опробовать модель: [ссылка](huggingface.co/spaces/AleksandrDashkevich/poster2genre)
+Опробовать модель: [ссылка](https://huggingface.co/spaces/AleksandrDashkevich/poster2genre)
